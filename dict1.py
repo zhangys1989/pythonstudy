@@ -5,3 +5,4 @@ print "dict[a]:",dict['a']
 print(cmp(dict,dict2))
 print(len(dict2))
 
+
